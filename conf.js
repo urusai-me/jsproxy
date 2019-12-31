@@ -77,8 +77,11 @@ jsproxy_config({
     'https://www.pornhub.com/': {
       content: '把你色色的念头掐掉！'
     },
-    'https://*.youtube.com/': {
+    'https://youtube.com/': {
       content: '流量有限，不要用来看视频！'  
+    },
+    'https://m.youtube.com/': {
+      content: '流量有限，不要用来看视频！'    
     },
     'http://haha.com/': {
       content: 'Hello World'
